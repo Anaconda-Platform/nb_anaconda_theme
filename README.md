@@ -1,2 +1,2 @@
 # nb_anaconda_theme
-The anaconda theme for the notebook
+Package for bring the anaconda theme into the notebook
