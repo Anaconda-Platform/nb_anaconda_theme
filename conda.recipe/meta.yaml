@@ -13,6 +13,10 @@ requirements:
     - python
     - nb_config_manager
 
+test:
+  requires:
+    - nose
+
 source:
   path: ../
 
